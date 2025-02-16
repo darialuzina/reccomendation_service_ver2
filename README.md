@@ -29,7 +29,7 @@ recommendation-service_ver2/      # Root directory of the project
 
 
 ## 🚀 Feature Engineering
-### **1. BERT-based Vectorization of Posts & Feature Extraction**
+### BERT-based Vectorization of Posts & Feature Extraction**
 We leverage **BERT embeddings** to capture semantic similarities in post text.
 
 #### **What Are Embeddings?**
