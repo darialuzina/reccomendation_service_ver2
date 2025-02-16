@@ -23,7 +23,7 @@ recommendation-service_ver2/      # Root directory of the project
 │   ├── Feature_databases.ipynb # Feature extraction & database storage
 │   ├── Model.ipynb             # Model training & evaluation
 │── models/                  # Pre-trained models
-│   ├── catboost_model.cbm      # Saved CatBoost model
+│   ├── catboost_model_4.cbm      # Saved CatBoost model
 │── service/                 # API implementation using FastAPI
 │   ├── service.py              # API endpoints and service logic
 │   ├── schema.py               # API schema definitions
