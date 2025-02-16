@@ -14,7 +14,18 @@ This project is an enhanced machine learning-based recommendation service that p
 ---
 
 ## 📂 Project Structure
-
+recommendation-service_ver2/      # Root directory of the project
+│── README.md                # Project documentation
+│── requirements.txt         # Dependencies list
+│── .gitignore/               # Git ignore file
+│── notebooks/               # Jupyter Notebooks for model training & feature engineering
+│   ├── Feature_databases.ipynb # Feature extraction & database storage
+│   ├── Model.ipynb             # Model training & evaluation
+│── models/                  # Pre-trained models
+│   ├── catboost_model.cbm      # Saved CatBoost model
+│── service/                 # API implementation using FastAPI
+│   ├── service.py              # API endpoints and service logic
+│   ├── schema.py               # API schema definitions
 
 
 ## 🚀 Feature Engineering
@@ -27,4 +38,11 @@ Embeddings are numerical representations of text that capture the semantic meani
 - Understanding context beyond keyword matching.
 - Improving recommendation accuracy by capturing deeper semantic patterns in text data.
 
----
+## 📌 Future Improvements
+
+🔹 Further fine-tuning of BERT embeddings for domain-specific texts.
+🔹 Experimenting with additional feature engineering techniques.
+🔹 Deploying the model as a cloud-based microservice.
+🔹 Exploring deep learning-based recommendation models, such as Transformer-based architectures.
+🔹 Implementing reinforcement learning to optimize recommendations dynamically.
+🔹 Using graph neural networks (GNNs) to model relationships between users and posts.
