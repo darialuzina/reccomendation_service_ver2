@@ -27,7 +27,7 @@ recommendation-service_ver2/      # Root directory of the project
 │── service/                 # API implementation using FastAPI
 │   ├── service.py              # API endpoints and service logic
 │   ├── schema.py               # API schema definitions
-
+```
 
 ## 🚀 Feature Engineering
 ### BERT-based Vectorization of Posts & Feature Extraction**
