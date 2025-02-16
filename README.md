@@ -14,6 +14,7 @@ This project is an enhanced machine learning-based recommendation service that p
 ---
 
 ## 📂 Project Structure
+```bash
 recommendation-service_ver2/      # Root directory of the project
 │── README.md                # Project documentation
 │── requirements.txt         # Dependencies list
