@@ -5,7 +5,7 @@ This project is an enhanced machine learning-based recommendation service that p
 
 ### 🔥 Updates in Version 2
 ✅ **BERT-based Feature Extraction** – Extracts semantic meaning from post text using `all-MiniLM-L6-v2` SentenceTransformer.  
-✅ **Improved Accuracy** – Model accuracy increased by approximately **0.5%** with new features.  
+✅ **Improved Accuracy** – Model accuracy increased with the new features.  
 ✅ **Optimized Feature Engineering** – Added mean, max, and min of embeddings as new features.  
 ✅ **Efficient Storage** – Features stored in a database for optimized speed.  
 ✅ **API Service** – Built with FastAPI for seamless integration.  
