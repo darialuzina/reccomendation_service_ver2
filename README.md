@@ -31,7 +31,7 @@ recommendation-service_ver2/      # Root directory of the project
 
 ## 🚀 Feature Engineering
 ### BERT-based Vectorization of Posts & Feature Extraction**
-We leverage **BERT embeddings** to capture semantic similarities in post text.
+**BERT embeddings** are leveraged to capture semantic similarities in post text.
 
 #### **What Are Embeddings?**
 Embeddings are numerical representations of text that capture the semantic meaning of words and phrases. Unlike traditional methods that rely on simple word frequency, embeddings encode contextual relationships between words. This helps in:
